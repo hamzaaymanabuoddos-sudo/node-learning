@@ -5,7 +5,7 @@ const app = express();
 app.use(express.json());
 
 app.get("/", (req, res) => {
-    res.send("Hello from Express!");
+    res.send("Hello from first Git Express!");
 });
 
 app.get("/users", (req, res) => {
