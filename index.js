@@ -13,7 +13,7 @@ app.get("/users", (req, res) => {
         {
             id: 1,
 
-            name: "Hamza ayman abu al"
+            name: "Hamza ayman..."
 
         },
         {
