@@ -12,7 +12,7 @@ app.get("/users", (req, res) => {
     res.json([
         {
             id: 1,
-            name: "Hamza ayman"
+            name: "Hamza ayman abu al"
         },
         {
             id: 2,
