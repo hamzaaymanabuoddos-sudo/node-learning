@@ -12,11 +12,11 @@ app.get("/users", (req, res) => {
     res.json([
         {
             id: 1,
-            name: "Hamza"
+            name: "Hamza ayman"
         },
         {
             id: 2,
-            name: "Ahmad"
+            name: "omar"
         }
     ]);
 });
